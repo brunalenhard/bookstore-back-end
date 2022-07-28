@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: bookstore
+      username: root
+      password: root
+      authentication-database: admin
